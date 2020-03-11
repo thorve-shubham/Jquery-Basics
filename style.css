@@ -1,0 +1,10 @@
+.heading{
+    font-size: 40px;
+}
+.big-heading{
+    font-size: 100px;
+}
+.my-class{
+    border-width: 2px;
+    border-color: pink;
+}
